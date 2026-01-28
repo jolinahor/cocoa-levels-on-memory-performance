@@ -1,5 +1,4 @@
 # Cognitive Effects of Cocoa Levels on Short-Term Memory Performance - A Research Study
-Cognitive Effects of Cocoa Levels on Short-Term Memory Performance
 
 This study investigates whether varying cocoa percentages in chocolate enhance male memory performance using a randomized complete-block design (5 cocoa levels × 3 digestion intervals × 5 age blocks, n = 150) with participants from Colmar. Memory performance was measured before and after chocolate consumption using a timed memory game.
 
